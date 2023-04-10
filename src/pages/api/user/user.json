@@ -18,7 +18,8 @@
         "introductionText": "Después de varios años de experiencia en implementando soluciones en tecnología, puedo decir que soy un desarrollador apasionado por la creación de soluciones innovadoras y eficientes que aportan y mejoran la vida de las personas. Mi experiencia abarca desarrollos en diferentes plataformas como lo son web(HTML,CSS,JAVASCRIPT), móvil(ANDROID) y escritorio(WINDOWS). He sido afortunado al trabajar en proyectos relacionados con el estado. Liderando e implementado desde la arquitectura hasta el despliegue de proyectos. Poseo habilidades en PHP, TypeScript(javascript), .NET(C#), .Net Core(C#), Java, Kotlin, node js, express y React. Puedo trabajar con test unitarios con Jest, entiendo de la administración de servidores en Linux y el manejo de bases de datos SQL, MySQL y mongodb. Mi nivel de inglés es semi conversacional. Soy un apasionado por la seguridad, la estabilidad y un software escalable, me apego en la medida de lo posible a los principios SOLID implementando siempre que se pueda las mejores practicas . Estoy comprometido con mi desarrollo profesional, siempre busco adquirir conocimiento y fortalecer mis habilidades. Me gustaría trabajar en una empresa de alto nivel, como Amazon, Google, Facebook o incluso Microsoft, donde pueda utilizar mis habilidades y conocimientos para contribuir a proyectos que realmente aporten valor a las personas. Si su empresa se encuentra esta categoría o QUIEREN SER PARTE DE ESTA CATEGORÍA seria un honor para mi hacer parte de su equipo para que juntos logremos objetivos.",
         "currentWork": {
             "jobTitle": "Ingeniero de desarrollo de aplicaciones",
-            "company": "calltech"
+            "company": "calltech",
+            "companyWebSite": "https://www.calltechsa.com/"
         },
         "currentRole": {
             "title": "Full-Stack Developer",

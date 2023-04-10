@@ -1,5 +1,8 @@
-import { User } from "./user/domain/User";
+import { User } from "./api/user/DTO/User";
+import { TJSXProp } from "./props/TJSXProp";
 
 export type {
-    User
+    User as APIUser,
+
+    TJSXProp
 }

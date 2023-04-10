@@ -1,0 +1,60 @@
+.main {
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  background-color: #242424;
+  align-items: center;
+  padding: 0px 8rem;
+  min-height: 100vh;
+  column-gap: 100px;
+}
+
+.cite {
+  word-wrap: normal;
+  text-align: left;
+  margin: 0px;
+  width: 650px;
+  font-size: 28px;
+  margin-top: 60px;
+}
+
+.description {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  color: white;
+}
+
+.name {
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-size: 75px;
+  margin: 0;
+}
+
+.jobTitle {
+  font-weight: 400;
+  letter-spacing: 1px;
+  width: 500px;
+  font-size: 45px;
+  margin: 0;
+  float: left;
+}
+
+.jobTitle Button {
+  margin-left: 15px;
+}
+
+.lineBottom {
+  border: 1px solid #1e5c7c;
+  width: 70%;
+}
+
+.showMoreButton {
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+  color: white;
+}
